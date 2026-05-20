@@ -44,7 +44,7 @@ Fraud-resistant agricultural marketplace connecting farmers directly with buyers
 **Tech Stack**  
 HTML • TailwindCSS • JavaScript • SQL • Node.js
 
-🔗 <a href="https://ankitx0.github.io/AgriTrust/" target="_blank">Repository</a>
+🔗 <a href="https://github.com/AnkitX0/AgriTrust" target="_blank">Repository</a>
 
 </td>
 
