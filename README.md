@@ -1,28 +1,32 @@
 <h1 align="center">Ankit Singh</h1>
 
 <p align="center">
-  <b>AI/ML Engineer • Backend Developer • Automation Builder</b>
+  <b>AI/ML Engineer • Backend Developer • Automation Systems</b>
 </p>
 
 <p align="center">
-  Building real-world AI systems, automation tools, and scalable backend applications.
+  Building scalable AI applications, fraud-resistant systems, and real-world automation products.
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://ankitx0.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  
+
   <a href="https://linkedin.com/in/ankit3k" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="https://x.com/AnkitSingh63651" target="_blank">
-    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:ankitsingh10a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1WyX7rsfpsAdFMbP3RGXSicocTWu8Sw6l/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
@@ -34,23 +38,25 @@
 <tr>
 <td width="50%">
 
-### 🤖 VORTEX AI Assistant
-AI-powered assistant focused on automation, productivity, and intelligent workflows.
+### 🌾 Agri-Trust
+Fraud-resistant agricultural marketplace connecting farmers directly with buyers using escrow payments, GPS proof verification, and mandi price intelligence.
 
-**Tech:** Python • AI • Automation
+**Tech Stack**  
+HTML • TailwindCSS • JavaScript • SQL • Node.js
 
-🔗 <a href="https://github.com/AnkitX0/VORTEX" target="_blank">Repository</a>
+🔗 <a href="https://ankitx0.github.io/AgriTrust/" target="_blank">Repository</a>
 
 </td>
 
 <td width="50%">
 
-### 🧠 Sign Language Translator
-Real-time sign language to voice conversion using computer vision and AI.
+### ✋ HandGesture
+Real-time ASL translator using OpenCV, MediaPipe, and PyTorch for gesture-to-text conversion.
 
-**Tech:** Python • OpenCV • MediaPipe
+**Tech Stack**  
+Python • PyTorch • OpenCV • MediaPipe
 
-🔗 <a href="https://github.com/AnkitX0/SignLanguageToVoiceConverter" target="_blank">Repository</a>
+🔗 <a href="https://github.com/RaghavXE/HandGesture" target="_blank">Repository</a>
 
 </td>
 </tr>
@@ -59,9 +65,10 @@ Real-time sign language to voice conversion using computer vision and AI.
 <td width="50%">
 
 ### 🎤 AI Interview Platform
-AI-driven interview analysis platform with scoring and automation.
+AI-powered interview intelligence platform with scoring, speech analysis, and behavioral insights.
 
-**Tech:** FastAPI • React • AI
+**Tech Stack**  
+FastAPI • React • AI • WebRTC
 
 🔗 Coming Soon
 
@@ -70,9 +77,10 @@ AI-driven interview analysis platform with scoring and automation.
 <td width="50%">
 
 ### 🌐 Portfolio Website
-Personal portfolio showcasing projects, skills, and development journey.
+Personal developer portfolio showcasing projects, skills, and technical journey.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack**  
+HTML • CSS • JavaScript
 
 🔗 <a href="https://github.com/AnkitX0/Portfolio" target="_blank">Repository</a>
 
@@ -85,7 +93,7 @@ Personal portfolio showcasing projects, skills, and development journey.
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c,react,nodejs,fastapi,mysql,aws,gcp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c,react,nodejs,fastapi,mysql,aws,gcp,git,github,vscode" />
 </p>
 
 ---
@@ -105,15 +113,16 @@ Personal portfolio showcasing projects, skills, and development journey.
 - Data Structures & Algorithms
 - Backend System Design
 - AI Engineering
-- Real-Time Computer Vision Systems
+- Real-Time Computer Vision
+- Scalable Automation Systems
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnkitX0&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
+
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitX0&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -126,14 +135,14 @@ Personal portfolio showcasing projects, skills, and development journey.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">Portfolio</a> •
+  <a href="https://ankitx0.github.io/Portfolio/" target="_blank">Portfolio</a> •
   <a href="https://linkedin.com/in/ankit3k" target="_blank">LinkedIn</a> •
   <a href="mailto:ankitsingh10a@gmail.com">Email</a> •
-  <a href="YOUR_RESUME_LINK" target="_blank">Resume</a>
+  <a href="https://drive.google.com/file/d/1WyX7rsfpsAdFMbP3RGXSicocTWu8Sw6l/view" target="_blank">Resume</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitX0&style=flat-square&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=AnkitX0&style=flat-square&color=7C3AED"/>
 </p>
