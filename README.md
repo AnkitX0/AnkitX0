@@ -70,7 +70,7 @@ AI-powered interview intelligence platform with scoring, speech analysis, and be
 **Tech Stack**  
 FastAPI • React • AI • WebRTC
 
-🔗 Coming Soon
+🔗 <a href="https://github.com/AnkitX0/Interview_System" target="_blank">Repository</a>
 
 </td>
 
